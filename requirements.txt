@@ -1,0 +1,17 @@
+streamlit>=1.40
+pandas
+numpy
+plotly
+kaleido
+geopandas
+shapely
+folium
+streamlit-folium
+httpx
+openpyxl
+reportlab
+pytest
+python-dotenv
+xlsxwriter
+matplotlib
+pillow

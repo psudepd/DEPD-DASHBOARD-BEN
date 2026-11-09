@@ -1,0 +1,271 @@
+{
+ "rows": 107,
+ "service_reports": 106,
+ "regional_dir_reports_office_only": 1,
+ "direct": 7728.0,
+ "family_x5": 38640.0,
+ "total": 46368.0,
+ "source_mix": {
+  "W": 93,
+  "section:c_active": 8,
+  "zero_report": 4,
+  "R_recipients": 1
+ },
+ "flags": {
+  "W_vs_section_mismatch": 8,
+  "all_zero_report": 4,
+  "W_zero": 4,
+  "W_copied_from_cumulative": 4,
+  "period_count_not_stock": 1
+ },
+ "by_facility_type_as_filed": {
+  "assistive_ip": {
+   "reports": 1,
+   "direct": 208.0
+  },
+  "carts": {
+   "reports": 5,
+   "direct": 396.0
+  },
+  "deaf_reach": {
+   "reports": 25,
+   "direct": 2080.0
+  },
+  "gia": {
+   "reports": 4,
+   "direct": 637.0
+  },
+  "gov_se": {
+   "reports": 58,
+   "direct": 2072.0
+  },
+  "rcmhc": {
+   "reports": 7,
+   "direct": 906.0
+  },
+  "rcph": {
+   "reports": 4,
+   "direct": 300.0
+  },
+  "sindh_persons_with_disabilitie": {
+   "reports": 1,
+   "direct": 1054.0
+  },
+  "vtc": {
+   "reports": 1,
+   "direct": 75.0
+  }
+ },
+ "by_service_with_corrections": {
+  "assistive_ip": {
+   "reports": 1,
+   "direct": 208.0
+  },
+  "carts": {
+   "reports": 5,
+   "direct": 396.0
+  },
+  "deaf_reach": {
+   "reports": 45,
+   "direct": 2514.0
+  },
+  "gia": {
+   "reports": 4,
+   "direct": 637.0
+  },
+  "gov_se": {
+   "reports": 38,
+   "direct": 1638.0
+  },
+  "rcmhc": {
+   "reports": 7,
+   "direct": 906.0
+  },
+  "rcph": {
+   "reports": 4,
+   "direct": 300.0
+  },
+  "sindh_persons_with_disabilitie": {
+   "reports": 1,
+   "direct": 1054.0
+  },
+  "vtc": {
+   "reports": 1,
+   "direct": 75.0
+  }
+ },
+ "by_ownership": {
+  "government": {
+   "reports": 36,
+   "direct": 2328.0
+  },
+  "other": {
+   "reports": 22,
+   "direct": 1748.0
+  },
+  "partner": {
+   "reports": 48,
+   "direct": 3652.0
+  }
+ },
+ "by_division": {
+  "Hyderabad": {
+   "reports": 33,
+   "direct": 2066.0
+  },
+  "Karachi": {
+   "reports": 13,
+   "direct": 1991.0
+  },
+  "Larkana": {
+   "reports": 17,
+   "direct": 607.0
+  },
+  "Mirpurkhas": {
+   "reports": 4,
+   "direct": 114.0
+  },
+  "Shaheed Benazirabad": {
+   "reports": 9,
+   "direct": 864.0
+  },
+  "Sukkur": {
+   "reports": 30,
+   "direct": 2086.0
+  }
+ },
+ "by_district": {
+  "badin": {
+   "reports": 2,
+   "direct": 56.0
+  },
+  "dadu": {
+   "reports": 9,
+   "direct": 313.0
+  },
+  "ghotki": {
+   "reports": 5,
+   "direct": 197.0
+  },
+  "hyderabad": {
+   "reports": 11,
+   "direct": 855.0
+  },
+  "jacobabad": {
+   "reports": 5,
+   "direct": 176.0
+  },
+  "jamshoro": {
+   "reports": 3,
+   "direct": 198.0
+  },
+  "kamber_shahdadkot": {
+   "reports": 2,
+   "direct": 75.0
+  },
+  "karachi_central": {
+   "reports": 2,
+   "direct": 225.0
+  },
+  "karachi_east": {
+   "reports": 5,
+   "direct": 1589.0
+  },
+  "karachi_south": {
+   "reports": 1,
+   "direct": 19.0
+  },
+  "karachi_west": {
+   "reports": 1,
+   "direct": 40.0
+  },
+  "keamari": {
+   "reports": 1,
+   "direct": 15.0
+  },
+  "khairpur": {
+   "reports": 12,
+   "direct": 1090.0
+  },
+  "korangi": {
+   "reports": 1,
+   "direct": 35.0
+  },
+  "larkana": {
+   "reports": 7,
+   "direct": 167.0
+  },
+  "malir": {
+   "reports": 2,
+   "direct": 68.0
+  },
+  "matiari": {
+   "reports": 1,
+   "direct": 57.0
+  },
+  "mirpurkhas": {
+   "reports": 2,
+   "direct": 23.0
+  },
+  "naushahro_feroze": {
+   "reports": 1,
+   "direct": 40.0
+  },
+  "sanghar": {
+   "reports": 2,
+   "direct": 28.0
+  },
+  "shaheed_benazirabad": {
+   "reports": 6,
+   "direct": 796.0
+  },
+  "shikarpur": {
+   "reports": 3,
+   "direct": 189.0
+  },
+  "sukkur": {
+   "reports": 13,
+   "direct": 799.0
+  },
+  "tando_allahyar": {
+   "reports": 3,
+   "direct": 387.0
+  },
+  "tando_muhammad_khan": {
+   "reports": 2,
+   "direct": 115.0
+  },
+  "thatta": {
+   "reports": 2,
+   "direct": 85.0
+  },
+  "umerkot": {
+   "reports": 2,
+   "direct": 91.0
+  }
+ },
+ "districts_reporting": 27,
+ "divisions_reporting": 6,
+ "missing_districts": [
+  "kashmore",
+  "sujawal",
+  "tharparkar"
+ ],
+ "implausible_cumulative_rows": [
+  102
+ ],
+ "same_name_district_period_groups": 12,
+ "rows_in_those_groups": 32,
+ "direct_if_name_deduplicated": 7112.0,
+ "note": "Default = count every submission (\"as submitted\"). Several Deaf Reach / Digital Class / FESF satellite schools share one name in one district, so name-based deduplication would drop real centres. The headline range if every same-name report were a duplicate is shown in direct_if_name_deduplicated.",
+ "by_ownership_class_DEPD_rule": {
+  "partner": {
+   "reports": 30,
+   "direct": 2925.0
+  },
+  "government": {
+   "reports": 76,
+   "direct": 4803.0
+  }
+ }
+}

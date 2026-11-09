@@ -1,0 +1,107 @@
+service_type,service_category,ownership_class,division,district,organisation,reporting_period,direct,indirect_x5,total_reach,source,flags
+assistive_ip,Assistive devices,partner,Karachi,Karachi Central,BINAE Welfare Association,2026-11-05,208.0,1040.0,1248.0,R_recipients,period_count_not_stock
+carts,Training / vocational,government,Hyderabad,Hyderabad,"CENTER FOR AUTISM REHABILITATION AND TRAINING, SINDH",2026-11-01,193.0,965.0,1158.0,W,
+carts,Training / vocational,government,Larkana,Larkana,Center for Autism Rehabilitation and Training Sindh,2026-11-02,32.0,160.0,192.0,W,
+carts,Training / vocational,government,Shaheed Benazirabad,Shaheed Benazirabad,"Center for Autism Rehabilitation and Training, Sindh (C-ARTS)",2026-11-01,34.0,170.0,204.0,W,
+carts,Training / vocational,government,Sukkur,Khairpur,"Centre for Autism Rehabilitation and Training, Sindh (C-ARTS)",2026-11-01,74.0,370.0,444.0,W,W_vs_section_mismatch
+carts,Training / vocational,government,Sukkur,Sukkur,Center foe Autism rehabilitation and training sindh (C-ARTS) sukkur,2026-11-02,63.0,315.0,378.0,W,
+deaf_reach,Education / school,partner,Hyderabad,Dadu,FESF/ Deaf Reach Satellite School,2026-11-04,28.0,140.0,168.0,W,
+deaf_reach,Education / school,partner,Hyderabad,Dadu,FESF/ Deaf Reach Satellite School,2026-11-05,20.0,100.0,120.0,W,
+deaf_reach,Education / school,partner,Hyderabad,Hyderabad,"Deaf Reach School & College, Hyderabad",2026-11-05,219.0,1095.0,1314.0,W,
+deaf_reach,Education / school,partner,Hyderabad,Tando Allahyar,"Deaf Reach School & College, Rashidabad",2026-11-05,302.0,1510.0,1812.0,W,
+deaf_reach,Education / school,partner,Hyderabad,Tando Muhammad Khan,FESF/Deaf Reach Satellite School,2026-11-05,20.0,100.0,120.0,W,
+deaf_reach,Education / school,partner,Karachi,Karachi East,"Deaf Reach School & College, Karachi",2026-11-05,390.0,1950.0,2340.0,W,
+deaf_reach,Education / school,partner,Larkana,Jacobabad,Deaf Reach Satellite Schools,2026-11-04,29.0,145.0,174.0,W,
+deaf_reach,Education / school,partner,Larkana,Jacobabad,FESF/ Deaf Reach Satellite School,2026-11-05,16.0,80.0,96.0,W,
+deaf_reach,Education / school,partner,Larkana,Kamber Shahdadkot,FESF/ Deaf Reach Satellite School,2026-11-03,33.0,165.0,198.0,W,
+deaf_reach,Education / school,partner,Larkana,Kamber Shahdadkot,FESF/Deaf Reach Satellite School,2026-11-04,42.0,210.0,252.0,W,
+deaf_reach,Education / school,partner,Larkana,Larkana,FESF/ Deaf Reach Satellite School,2026-11-04,23.0,115.0,138.0,W,
+deaf_reach,Education / school,partner,Shaheed Benazirabad,Shaheed Benazirabad,"Deaf Reach School & College, Nawabshah",2026-11-05,221.0,1105.0,1326.0,W,
+deaf_reach,Education / school,partner,Sukkur,Ghotki,FESF/ Deaf Reach Satellite School,2026-11-04,94.0,470.0,564.0,W,
+deaf_reach,Education / school,partner,Sukkur,Ghotki,FESF/ Deaf Reach Satellite School,2026-11-03,18.0,90.0,108.0,W,
+deaf_reach,Education / school,partner,Sukkur,Ghotki,FESF/ Deaf Reach Satellite School,2026-11-05,17.0,85.0,102.0,W,
+deaf_reach,Education / school,partner,Sukkur,Ghotki,FESF/ Deaf Reach Satellite School,2026-11-05,28.0,140.0,168.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/ Deaf Reach Satellite School,2026-11-03,23.0,115.0,138.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/ Deaf Reach Satellite School,2026-11-03,25.0,125.0,150.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/ Deaf Reach Satellite School,2026-11-03,16.0,80.0,96.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/ Deaf Reach Satellite School,2026-11-04,67.0,335.0,402.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/ Deaf Reach Satellite School,2026-11-05,30.0,150.0,180.0,W,
+deaf_reach,Education / school,partner,Sukkur,Khairpur,FESF/Deaf Reach Satellite School,2026-11-05,28.0,140.0,168.0,W,
+deaf_reach,Education / school,partner,Sukkur,Sukkur,"Deaf Reach School & College, Sukkur",2026-11-05,329.0,1645.0,1974.0,W,
+deaf_reach,Education / school,partner,Sukkur,Sukkur,FESF/ Deaf Reach Satellite School,2026-11-04,31.0,155.0,186.0,W,
+deaf_reach,Education / school,partner,Sukkur,Sukkur,FESF/ Deaf Reach Satellite School,2026-11-05,31.0,155.0,186.0,W,
+gia,Education / school,partner,Karachi,Karachi East,Autism Care & Rehabilitation Organization,2026-10-31,116.0,580.0,696.0,W,
+gia,Education / school,partner,Karachi,Karachi East,Pakistan Legal United Society-PLUS,2026-11-03,0.0,0.0,0.0,zero_report,all_zero_report
+gia,Education / school,partner,Karachi,Malir,IQ TALES (Intelligence Quotient),2026-06-01,50.0,250.0,300.0,section:c_active,W_copied_from_cumulative
+gia,Education / school,partner,Shaheed Benazirabad,Shaheed Benazirabad,National Disability and Development Forum-NDF,2026-11-06,471.0,2355.0,2826.0,W,
+gov_se,Education / school,government,Hyderabad,Badin,Government Special Education & Rehabilitation Centre,2026-11-02,1.0,5.0,6.0,section:c_active,W_zero
+gov_se,Education / school,government,Hyderabad,Dadu,DEPD Digital classes dadu,2026-11-04,9.0,45.0,54.0,W,
+gov_se,Education / school,government,Hyderabad,Dadu,DEPD Digital classes deaf reach,2026-11-03,9.0,45.0,54.0,W,
+gov_se,Education / school,government,Hyderabad,Dadu,G S E & R C MEHAR,2026-11-03,61.0,305.0,366.0,W,
+gov_se,Education / school,government,Hyderabad,Dadu,Government Special Education & Rehabilitation Centre,2026-11-01,22.0,110.0,132.0,W,W_vs_section_mismatch
+gov_se,Education / school,government,Hyderabad,Dadu,Govt special education & rehtnter for VI.HIC dadu,2026-11-01,53.0,265.0,318.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,"DEPD Digital classes Deafreach GOR 1,2",2026-11-04,9.0,45.0,54.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,DEPD Digital classes GOR 2,2026-11-04,9.0,45.0,54.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,DEPD Digital classes Qasimabad,2026-11-04,15.0,75.0,90.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,DEPD Digital classes makli,2026-11-04,10.0,50.0,60.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,Government Special Education & Rehabiliation Centre for (VIC) GOR Colony Hyderabad,2026-11-07,80.0,400.0,480.0,section:c_active,W_zero
+gov_se,Education / school,government,Hyderabad,Hyderabad,Government Special Education & Rehabilitation Center Intellectual Disabilities GOR hyderabd,2026-11-06,104.0,520.0,624.0,W,
+gov_se,Education / school,government,Hyderabad,Hyderabad,"Government Special Education and Rehabilitation Center for Hearing Impaired Children (G.O.R) Colony,Hyderabadn's",2026-11-02,113.0,565.0,678.0,section:c_active,W_zero
+gov_se,Education / school,government,Hyderabad,Hyderabad,Government Special Education and Rehabititation center for PD hyderabad,2026-11-02,40.0,200.0,240.0,W,W_vs_section_mismatch
+gov_se,Education / school,government,Hyderabad,Jamshoro,DEPD Digital classes kotri,2026-11-04,28.0,140.0,168.0,W,
+gov_se,Education / school,government,Hyderabad,Jamshoro,Government Special Education & Rehabilitation Centre Jamshoro,2026-11-02,81.0,405.0,486.0,W,
+gov_se,Education / school,government,Hyderabad,Jamshoro,Government Special Education and Rehabilitation Centre Hyderabad @ Kotri,2026-11-02,89.0,445.0,534.0,W,
+gov_se,Education / school,government,Hyderabad,Matiari,GSC & RC HALA,2026-11-02,57.0,285.0,342.0,W,
+gov_se,Education / school,government,Hyderabad,Tando Allahyar,DEPD Digital Class Deaf Reach,2026-11-04,20.0,100.0,120.0,W,
+gov_se,Education / school,government,Hyderabad,Tando Allahyar,"Government Special Education and Rehabilitation Center, Tando Allahyar",2026-11-06,65.0,325.0,390.0,W,
+gov_se,Education / school,government,Hyderabad,Tando Muhammad Khan,Government Special Education & Rehabilitation Center,2026-11-02,95.0,475.0,570.0,W,
+gov_se,Education / school,government,Hyderabad,Thatta,DEPD Digital classes deafreach,2026-11-03,10.0,50.0,60.0,W,
+gov_se,Education / school,government,Hyderabad,Thatta,Government Special Education and Rehabilitation Centre Thatta @MAKLI,2026-11-02,75.0,375.0,450.0,W,
+gov_se,Education / school,government,Karachi,Karachi Central,Ruzain,2026-11-04,17.0,85.0,102.0,W,
+gov_se,Education / school,government,Karachi,Karachi East,Samiullah and Ajwah Majeed,2026-11-04,29.0,145.0,174.0,W,
+gov_se,Education / school,government,Karachi,Karachi South,Fatima Arsalan,2026-11-04,19.0,95.0,114.0,W,
+gov_se,Education / school,government,Karachi,Karachi West,Zeeshan Aqeel and Muhammad Owais,2026-11-04,40.0,200.0,240.0,W,
+gov_se,Education / school,government,Karachi,Keamari,Muhammad Huzaifa,2026-11-04,15.0,75.0,90.0,W,
+gov_se,Education / school,government,Karachi,Korangi,Naeem,2026-11-04,35.0,175.0,210.0,W,
+gov_se,Education / school,government,Karachi,Malir,Basit,2026-11-04,18.0,90.0,108.0,W,
+gov_se,Education / school,government,Larkana,Jacobabad,DEPD Digital Classroom Deaf Reach,2026-11-03,44.0,220.0,264.0,W,
+gov_se,Education / school,government,Larkana,Larkana,DEPD Digital Classes Deaf Reach,2026-11-03,36.0,180.0,216.0,W,
+gov_se,Education / school,government,Larkana,Larkana,DEPD Digital Classes Deaf Reach,2026-11-03,38.0,190.0,228.0,W,
+gov_se,Education / school,government,Larkana,Larkana,DEPD Digital Classes Deaf Reach,2026-11-03,13.0,65.0,78.0,W,
+gov_se,Education / school,government,Larkana,Larkana,DEPD Digital Classes Deaf Reach,2026-11-04,13.0,65.0,78.0,W,
+gov_se,Education / school,government,Larkana,Shikarpur,DEPD Digital Classes Deaf Reach,2026-11-04,20.0,100.0,120.0,W,
+gov_se,Education / school,government,Larkana,Shikarpur,DEPD Digital Classes Deaf Reach,2026-11-04,17.0,85.0,102.0,W,
+gov_se,Education / school,government,Mirpurkhas,Mirpurkhas,DEPD Digital Class Deaf Reach,2026-11-04,9.0,45.0,54.0,W,
+gov_se,Education / school,government,Mirpurkhas,Mirpurkhas,DEPD Digital Class Deaf Reach,2026-11-04,14.0,70.0,84.0,W,
+gov_se,Education / school,government,Mirpurkhas,Umerkot,DEPD Digital Class Deaf Reach,2026-11-04,16.0,80.0,96.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Naushahro Feroze,DEPD Digital Class,2026-11-04,40.0,200.0,240.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Sanghar,DEPD Digital Class,2026-11-04,8.0,40.0,48.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Sanghar,DEPD Digital Classes Deaf Reach,2026-11-03,20.0,100.0,120.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Shaheed Benazirabad,DEPD Degital class,2026-11-04,41.0,205.0,246.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Shaheed Benazirabad,DEPD Digital Class,2026-11-03,10.0,50.0,60.0,W,
+gov_se,Education / school,government,Shaheed Benazirabad,Shaheed Benazirabad,DEPD Digital Class,2026-11-04,19.0,95.0,114.0,W,
+gov_se,Education / school,government,Sukkur,Ghotki,DEPD Digital Classes Deaf Reach,2026-11-03,40.0,200.0,240.0,W,
+gov_se,Education / school,government,Sukkur,Khairpur,DEPD Digital Classes Deaf Reach,2026-11-03,20.0,100.0,120.0,W,
+gov_se,Education / school,government,Sukkur,Khairpur,DEPD Digital Classes Deaf Reach,2026-11-03,39.0,195.0,234.0,W,
+gov_se,Education / school,government,Sukkur,Khairpur,GSE&RC-Khairpur,2026-11-02,120.0,600.0,720.0,W,
+gov_se,Education / school,government,Sukkur,Sukkur,DEPD Digital Classes Deaf Reach,2026-11-03,10.0,50.0,60.0,W,
+gov_se,Education / school,government,Sukkur,Sukkur,DEPD Digital Classes Deaf Reach,2026-11-03,37.0,185.0,222.0,W,
+gov_se,Education / school,government,Sukkur,Sukkur,"GOVT. SPECIAL EDUCATION & REHABILITATION CENTRE FOR VIC, BARRAGE COLONY SUKKUR.",2026-10-31,95.0,475.0,570.0,section:c_active,W_zero
+gov_se,Education / school,government,Sukkur,Sukkur,"GSE&RC FOR P.D, SUKKUR",2026-09-30,60.0,300.0,360.0,section:c_active,W_copied_from_cumulative
+gov_se,Education / school,government,Sukkur,Sukkur,GSE&RC for I.D Sukkur,2026-09-30,65.0,325.0,390.0,section:c_active,W_copied_from_cumulative
+gov_se,Education / school,government,Sukkur,Sukkur,Government Special Education & Rehabilation Centre for HIC Sukkur,2026-06-30,0.0,0.0,0.0,zero_report,all_zero_report
+gov_se,Education / school,government,Sukkur,Sukkur,Government Special Education & Rehabilitation Centre for HIC Sukkur,2025-06-30,0.0,0.0,0.0,zero_report,all_zero_report
+gov_se,Education / school,government,Sukkur,Sukkur,Government Special Education & Rehabilitation Centre for HIC Sukkur,2026-11-02,0.0,0.0,0.0,zero_report,all_zero_report
+rcmhc,Health / rehabilitation,government,Hyderabad,Badin,OFFICE OF THE DEPUTY DIRECTOR RCMHC (REHABILITATION CENTRE FOR MULTIPLE HANDICAPPED   CHILDREN BADIN),2026-11-02,55.0,275.0,330.0,W,
+rcmhc,Health / rehabilitation,government,Hyderabad,Dadu,Rehabilitation Center for Multiple Handicapped Children Dadu,2026-11-02,50.0,250.0,300.0,W,
+rcmhc,Health / rehabilitation,government,Larkana,Jacobabad,RCMHC (DEPD JACOBABAD,2026-11-02,16.0,80.0,96.0,W,W_vs_section_mismatch
+rcmhc,Health / rehabilitation,government,Larkana,Jacobabad,RCMHC (DEPD) JACOBABAD,2026-11-02,71.0,355.0,426.0,W,W_vs_section_mismatch
+rcmhc,Health / rehabilitation,government,Larkana,Larkana,Rehabilitation Centre for Multiple Handicapped Children Larkana,2026-11-02,12.0,60.0,72.0,W,W_vs_section_mismatch
+rcmhc,Health / rehabilitation,government,Larkana,Shikarpur,RCMHC,2026-11-02,152.0,760.0,912.0,W,W_vs_section_mismatch
+rcmhc,Health / rehabilitation,government,Sukkur,Khairpur,SRHD-DEPD Rehabilitation Centre,2026-11-06,550.0,2750.0,3300.0,W,W_vs_section_mismatch
+rcph,Health / rehabilitation,government,Hyderabad,Dadu,GSE&RC FOR PD & ID DADU,2026-11-02,61.0,305.0,366.0,W,
+rcph,Health / rehabilitation,government,Hyderabad,Hyderabad,Rehablitation center for Physically Handicapped (RCPH) Hyderabad,2026-11-03,63.0,315.0,378.0,W,
+rcph,Health / rehabilitation,government,Sukkur,Khairpur,Abdul Shakoor,2026-11-02,98.0,490.0,588.0,W,
+rcph,Health / rehabilitation,government,Sukkur,Sukkur,"Rehabilitation Centre for Physically Handicapped, Sukkur",2026-11-02,78.0,390.0,468.0,section:c_active,W_copied_from_cumulative
+sindh_persons_with_disabilitie,Registration / legal,government,Karachi,Karachi East,Ida Rieu Welfare Association,2026-06-30,1054.0,5270.0,6324.0,W,
+vtc,Training / vocational,government,Mirpurkhas,Umerkot,Save The Lives Foundation,2026-09-30,75.0,375.0,450.0,W,

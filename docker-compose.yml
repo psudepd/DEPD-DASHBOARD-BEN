@@ -1,0 +1,11 @@
+services:
+  depd-dashboard:
+    build: .
+    ports: ["8501:8501"]
+    env_file: .env
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data:ro
+      - depd_cache:/app/.cache
+volumes:
+  depd_cache:

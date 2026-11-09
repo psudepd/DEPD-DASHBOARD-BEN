@@ -1,0 +1,12 @@
+{
+  "source": "real sample export, 43 submissions, 1-3 Nov 2026, before de-duplication (anonymised: no names or contacts kept)",
+  "rows": 43,
+  "direct_active_total": 2205.0,
+  "family_estimate_x5": 11025.0,
+  "total_reach": 13230.0,
+  "w_total_sum_if_used_naively": 2882.0,
+  "rows_using_section_fallback": 5,
+  "rows_w_vs_section_mismatch_review": 7,
+  "rows_all_zero": 3,
+  "rows_not_applicable": 1
+}
